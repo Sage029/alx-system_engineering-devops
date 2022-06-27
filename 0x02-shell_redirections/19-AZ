@@ -1,0 +1,2 @@
+#!/bin/basH
+tr 'A' 'Z' | tr 'c' 'e'
